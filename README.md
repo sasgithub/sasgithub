@@ -21,12 +21,9 @@ I'm a systems engineer with a strong background in backend infrastructure, inter
 - 🧠 **Continuous Learning**  
   I believe in learning by building, and I’ve been actively growing my skills this year across multiple domains
   - 🐍 Data & Cloud Analysis – Completed the Google Cloud Data Analytics and Google Data Analytics Professional Certificate, final case study available on GitHub
-
-🧱 Kubernetes Administration – Preparing for the Certified Kubernetes Administrator (CKA) exam
-
-📈 Visualization Tools – Hands-on with Tableau, Quarto, and ggplot2 for real-world reporting and dashboards
-
-🖥️ Infrastructure as Code – Exploring Terraform, Prometheus, and Redpanda
+  - 🧱 Kubernetes Administration – Preparing for the Certified Kubernetes Administrator (CKA) exam
+  - 📈 Visualization Tools – Hands-on with Tableau, Quarto, and ggplot2 for real-world reporting and dashboards
+  - 🖥️ Infrastructure as Code – Exploring Terraform, Prometheus, and Redpanda
   
 ---
 
