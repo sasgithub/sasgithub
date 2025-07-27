@@ -52,7 +52,7 @@ I'm actively rewriting and open-sourcing improved versions of past backend utili
   Built in Flutter. In active development and private testing.
 
 - 📝 **Modern Line Editor ("fat ED" Redux)**  
-  Inspired by legacy tools, adapted for scripting and large file manipulation.
+  Inspired by legacy tools, adapted for scripting and extreamly large file manipulation.
 
 ---
 
