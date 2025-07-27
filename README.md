@@ -81,5 +81,5 @@ Thanks for stopping by!
 ⚡ Strange facts
   - First brain transplant 1968
   - First full body transplant 1971
-  - Reseach in this are band by the National Research Act of 1974 
+  - Reseach in this are banned by the National Research Act of 1974 
 
