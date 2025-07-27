@@ -44,7 +44,7 @@ Highlights clarity, expressiveness, and problem-solving with minimal code.
 ### ⚙️ Internal Tools (Reimagined)  
 I'm actively rewriting and open-sourcing improved versions of past backend utilities, including:
 - Clogger - An application for monitoring, logging and controlling terminal servers. 
-- Testy - A minimalistic automation framework for testing (and momre). 
+- Testy - A minimalistic automation framework for testing (and more). 
 - Monitoring & automation scripts
 
 ---
