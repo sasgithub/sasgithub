@@ -20,7 +20,7 @@ I'm a systems engineer with a strong background in backend infrastructure, inter
 
 - 🧠 **Continuous Learning**  
   I believe in learning by building, and I’ve been actively growing my skills this year across multiple domains
-  - 🐍 Data & Cloud Analysis – Completed the Google Cloud Data Analytics and Google Data Analytics Professional Certificate, final case study available on GitHub
+  - 🐍 Data & Cloud Analysis – Completed the Google Cloud Data Analytics and Google Data Analytics Professional Certificate, final case study available on GitHub (linked below)
   - 🧱 Kubernetes Administration – Preparing for the Certified Kubernetes Administrator (CKA) exam
   - 📈 Visualization Tools – Hands-on with Tableau, Quarto, and ggplot2 for real-world reporting and dashboards
   - 🖥️ Infrastructure as Code – Exploring Terraform, Prometheus, and Redpanda
@@ -52,7 +52,7 @@ I'm actively rewriting and open-sourcing improved versions of past backend utili
   Built in Flutter. In active development and private testing.
 
 - 📝 **Modern Line Editor ("fat ED" Redux)**  
-  Inspired by legacy tools, adapted for scripting and extreamly large file manipulation.
+  Inspired by legacy tools, adapted for scripting and extremely large file manipulation.
 
 ---
 
@@ -81,5 +81,5 @@ Thanks for stopping by!
 ⚡ Strange facts
   - First brain transplant 1968
   - First full body transplant 1971
-  - Reseach in this are banned by the National Research Act of 1974 
+  - Research in this are banned by the National Research Act of 1974 
 
