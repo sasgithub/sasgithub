@@ -81,5 +81,5 @@ Thanks for stopping by!
 ⚡ Strange facts
   - First brain transplant 1968
   - First full body transplant 1971
-  - Research in this are banned by the National Research Act of 1974 
+  - Research in this area banned by the National Research Act of 1974 
 
