@@ -47,8 +47,11 @@ I'm actively rewriting and open-sourcing improved versions of past backend utili
 ### 📍 Visualizing Top Bike Stations with Leaflet
 
 Kaggle Notebook
+
 This project explores high-volume Divvy bike stations in Chicago using pandas for data wrangling and folium (Leaflet) for interactive mapping. It highlights how geospatial patterns in urban mobility can be visualized to support planning and user behavior analysis.
+
 [🔗 View notebook](https://www.kaggle.com/code/yaid2r/visualizing-top-bike-stations-with-leaflet)
+
 ---
 
 ## 🚧 In Progress
