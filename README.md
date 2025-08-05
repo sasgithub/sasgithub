@@ -38,12 +38,17 @@ Includes visualizations, derived data products, and structured analysis.
 Creative, compact code written under tight constraints for fun and challenge.  
 Highlights clarity, expressiveness, and problem-solving with minimal code.
 
-### ⚙️ Internal Tools (Reimagined)  
+### ⚙️  Internal Tools (Reimagined)  
 I'm actively rewriting and open-sourcing improved versions of past backend utilities, including:
 - Clogger - An application for monitoring, logging and controlling terminal servers. 
 - Testy - A minimalistic automation framework for testing (and more). 
 - Monitoring & automation scripts
 
+### 📍 Visualizing Top Bike Stations with Leaflet
+
+Kaggle Notebook
+This project explores high-volume Divvy bike stations in Chicago using pandas for data wrangling and folium (Leaflet) for interactive mapping. It highlights how geospatial patterns in urban mobility can be visualized to support planning and user behavior analysis.
+[🔗 View notebook](https://www.kaggle.com/code/yaid2r/visualizing-top-bike-stations-with-leaflet)
 ---
 
 ## 🚧 In Progress
